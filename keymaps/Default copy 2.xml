@@ -6,4 +6,13 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>
