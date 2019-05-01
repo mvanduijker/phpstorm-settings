@@ -4,12 +4,12 @@
     <property name="created">2017-10-23T19:39:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-25T20:15:11</property>
+    <property name="modified">2019-05-01T13:02:22</property>
     <property name="originalScheme">Railscasts</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="2.1" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
