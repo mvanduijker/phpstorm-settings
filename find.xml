@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html.twig" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,5 +16,6 @@
     <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
+    <mask>*Controller.php</mask>
   </component>
 </application>
