@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="generate-changelog" type="PHP" />
+      <mapping ext="meta" type="PHP" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
