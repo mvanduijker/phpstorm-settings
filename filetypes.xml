@@ -10,9 +10,9 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="davlocks" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
+      <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
