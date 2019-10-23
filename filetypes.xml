@@ -14,6 +14,7 @@
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="contentful" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
