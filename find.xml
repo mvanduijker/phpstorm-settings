@@ -16,5 +16,6 @@
     <mask>*.html.twig</mask>
     <mask>*Controller.php</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
