@@ -7,6 +7,7 @@
       <mapping ext="meta" type="PHP" />
       <mapping pattern=".built" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="by-handm" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="davlocks" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
