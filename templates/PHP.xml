@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="lmtbl" value="Schema::create('$END$', function (Blueprint $table) {&#10;    $table-&gt;id();&#10;    $table-&gt;timestamps();&#10;});" description="Laravel Migration Table" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
