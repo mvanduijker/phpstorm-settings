@@ -1,18 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="pla-export-validator" type="PHP" />
       <mapping pattern="generate-changelog" type="PHP" />
+      <mapping pattern="transform-auth0-export-to-clang-csv" type="PHP" />
       <mapping ext="meta" type="PHP" />
       <mapping pattern="by-handm" type="PLAIN_TEXT" />
-      <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".built" type="PLAIN_TEXT" />
-      <mapping pattern="release" type="PLAIN_TEXT" />
-      <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="davlocks" type="PLAIN_TEXT" />
+      <mapping pattern="pla-export-validation" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
+      <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
+      <mapping pattern=".env.travis" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="contentful" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
