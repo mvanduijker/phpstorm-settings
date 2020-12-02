@@ -17,6 +17,7 @@
       <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="MercureCaddyFile" type="PLAIN_TEXT" />
       <mapping ext="contentful" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
