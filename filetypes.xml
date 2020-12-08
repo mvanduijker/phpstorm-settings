@@ -1,23 +1,23 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="dedupe-pla-export-from-auth0-export" type="PHP" />
-      <mapping pattern="pla-export-validator" type="PHP" />
       <mapping pattern="generate-changelog" type="PHP" />
       <mapping pattern="transform-auth0-export-to-clang-csv" type="PHP" />
+      <mapping pattern="dedupe-pla-export-from-auth0-export" type="PHP" />
+      <mapping pattern="pla-export-validator" type="PHP" />
       <mapping ext="meta" type="PHP" />
       <mapping pattern="by-handm" type="PLAIN_TEXT" />
       <mapping pattern=".built" type="PLAIN_TEXT" />
-      <mapping pattern="davlocks" type="PLAIN_TEXT" />
-      <mapping pattern="pla-export-validation" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
+      <mapping pattern="davlocks" type="PLAIN_TEXT" />
+      <mapping pattern="pla-export-validation" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="MercureCaddyFile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="contentful" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -25,15 +25,13 @@
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="tiwg" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-healthcheck" type="Shell Script" />
       <mapping ext="njk" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
