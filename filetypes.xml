@@ -4,6 +4,7 @@
       <mapping pattern="generate-changelog" type="PHP" />
       <mapping pattern="prepare-pla-export" type="PHP" />
       <mapping pattern="transform-auth0-export-to-clang-csv" type="PHP" />
+      <mapping pattern="import-to-auth0" type="PHP" />
       <mapping pattern="dedupe-pla-export-from-auth0-export" type="PHP" />
       <mapping pattern="pla-export-validator" type="PHP" />
       <mapping ext="meta" type="PHP" />
