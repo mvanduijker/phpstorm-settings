@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="corporate-generate-new-users-import-files" type="PHP" />
       <mapping pattern="generate-changelog" type="PHP" />
       <mapping pattern="prepare-corporate-accounts" type="PHP" />
       <mapping pattern="prepare-pla-export" type="PHP" />
