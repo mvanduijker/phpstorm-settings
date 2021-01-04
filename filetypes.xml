@@ -14,6 +14,7 @@
       <mapping pattern="anomolies" type="PHP" />
       <mapping ext="meta" type="PHP" />
       <mapping pattern="by-handm" type="PLAIN_TEXT" />
+      <mapping pattern=".crt-vault-password" type="PLAIN_TEXT" />
       <mapping pattern=".built" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
