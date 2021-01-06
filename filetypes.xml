@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Z+NS8a8UC4+bYGFi3l2A" type="AUTO_DETECTED" />
       <mapping pattern="corporate-generate-new-users-import-files" type="PHP" />
       <mapping pattern="generate-changelog" type="PHP" />
       <mapping pattern="prepare-corporate-accounts" type="PHP" />
@@ -15,11 +16,14 @@
       <mapping ext="meta" type="PHP" />
       <mapping pattern="by-handm" type="PLAIN_TEXT" />
       <mapping pattern=".crt-vault-password" type="PLAIN_TEXT" />
+      <mapping pattern="3nMXtpQqryDrfQAj6c6w" type="PLAIN_TEXT" />
       <mapping pattern=".built" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".env.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
+      <mapping pattern="eMtz9k-iOnLsfByCqfXQ" type="PLAIN_TEXT" />
       <mapping pattern="davlocks" type="PLAIN_TEXT" />
+      <mapping pattern="zkHu+ceJFs3FYGukpd0Q" type="PLAIN_TEXT" />
       <mapping pattern="pla-export-validation" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
