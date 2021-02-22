@@ -4,8 +4,8 @@
       <mapping pattern="Z+NS8a8UC4+bYGFi3l2A" type="AUTO_DETECTED" />
       <mapping pattern="corporate-generate-new-users-import-files" type="PHP" />
       <mapping pattern="generate-changelog" type="PHP" />
-      <mapping pattern="prepare-corporate-accounts" type="PHP" />
       <mapping pattern="prepare-pla-export" type="PHP" />
+      <mapping pattern="prepare-corporate-accounts" type="PHP" />
       <mapping pattern="transform-auth0-export-to-clang-csv" type="PHP" />
       <mapping pattern="corporate-prepare-for-clang" type="PHP" />
       <mapping pattern="import-to-auth0" type="PHP" />
@@ -49,6 +49,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
