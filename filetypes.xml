@@ -14,6 +14,7 @@
       <mapping pattern="pla-export-validator" type="PHP" />
       <mapping pattern="anomolies" type="PHP" />
       <mapping ext="meta" type="PHP" />
+      <mapping pattern=".grahpqlconfig" type="PLAIN_TEXT" />
       <mapping pattern="by-handm" type="PLAIN_TEXT" />
       <mapping pattern=".crt-vault-password" type="PLAIN_TEXT" />
       <mapping pattern="3nMXtpQqryDrfQAj6c6w" type="PLAIN_TEXT" />
