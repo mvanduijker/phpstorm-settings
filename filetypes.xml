@@ -35,6 +35,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="tiwg" type="PLAIN_TEXT" />
