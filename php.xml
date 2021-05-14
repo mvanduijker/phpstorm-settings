@@ -7,11 +7,11 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.3/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.3/bin/php" path_separator=":" version="8.0.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.5/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.5/bin/php" path_separator=":" version="8.0.5">
           <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.3/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.5/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
